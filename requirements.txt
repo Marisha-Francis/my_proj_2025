@@ -1,0 +1,2 @@
+python (pandas,numpy,matplot)
+jupyter notebook
